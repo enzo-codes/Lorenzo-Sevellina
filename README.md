@@ -76,7 +76,7 @@ Hello! I'm **Lorenzo Sevellina**, a passionate IT student with a flair for **cod
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lorenzo%20Sevellina-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juandelacruz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lorenzo%20Sevellina-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorenzo-sevellina-485a8540a/)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-loresvlln%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:loresvlln@gmail.com)
 
